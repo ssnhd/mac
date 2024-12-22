@@ -40,8 +40,7 @@
 38. Visual Studio Code：https://code.visualstudio.com
 39. iStat Menus：https://bjango.com/mac/istatmenus
 40. 硬盘信息 Drivedx：https://binaryfruit.com/drivedx
-41. PopClip：https://www.popclip.app/extensions
-42. PopClip 制作 PopMaker：https://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator
+41. PopClip 制作 PopMaker：https://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator
 43. Hapigo：https://www.hapigo.com
 44. 阿里云盘：https://www.alipan.com
 45. APTV：https://apps.apple.com/cn/app/aptv/id1630403500
