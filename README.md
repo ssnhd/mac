@@ -13,7 +13,7 @@
 11. 快捷开关 One Switch：https://fireball.studio/oneswitch
 12. 翻译 Bob：https://apps.apple.com/cn/app/bob-翻译和-ocr-工具/id1630034110
 13. 划词扩展 PopClip：https://apps.apple.com/cn/app/popclip/id445189367
-14. 快捷启动应用 Thor：https://apps.apple.com/cn/app/thor/id1120999687
+14. 快捷启动应用 Thor：https://github.com/gbammc/Thor
 15. 密码管理 Enpass：https://apps.apple.com/cn/app/enpass-password-manager/id732710998
 16. 截图 CleanShot X：https://cleanshot.com
 17. 截图 Shottr：https://shottr.cc
