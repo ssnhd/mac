@@ -44,6 +44,7 @@
 43. Hapigo：https://www.hapigo.com
 44. 阿里云盘：https://www.alipan.com
 45. APTV：https://apps.apple.com/cn/app/aptv/id1630403500
+46. 网络工具 Mihomo Party：https://mihomoparty.org/
 
 
 ## 启动台行列
