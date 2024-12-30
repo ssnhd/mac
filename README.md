@@ -46,6 +46,7 @@
 45. APTV：https://apps.apple.com/cn/app/aptv/id1630403500
 46. 网络工具 Mihomo Party：https://mihomoparty.org/
 47. 图片放大 Upscayl：https://github.com/upscayl/upscayl
+48. 录屏软件 QuickRecorder：https://github.com/lihaoyun6/QuickRecorder
 
 
 ## 启动台行列
