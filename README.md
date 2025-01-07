@@ -47,6 +47,7 @@
 46. 网络工具 Mihomo Party：https://mihomoparty.org/
 47. 图片放大 Upscayl：https://github.com/upscayl/upscayl
 48. 录屏软件 QuickRecorder：https://github.com/lihaoyun6/QuickRecorder
+49. 图片预览查看 PictureView：https://wl879.github.io/apps/picview/index.html
 
 
 ## 启动台行列
