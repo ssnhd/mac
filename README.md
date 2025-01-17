@@ -50,6 +50,7 @@
 49. 图片预览查看 PictureView：https://wl879.github.io/apps/picview/index.html
 50. 视频裁剪 VideoProc Converter：https://www.videoproc.com
 51. 桌面计时器 Timer：https://github.com/michaelvillar/timer-app/releases
+52. 显示手机等设备电量 AirBattery：https://github.com/lihaoyun6/AirBattery
 
 
 ## 启动台行列
