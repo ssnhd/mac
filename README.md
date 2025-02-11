@@ -164,4 +164,12 @@ sudo /usr/libexec/PlistBuddy -c "Add 'redesigned_text_cursor:Enabled' bool false
 弊端：设置 - 网络 - 修改 DNS 时可能会无法输入数字，可以选择粘贴。\
 还原：系统偏好设置 → 键盘 → 输入法 → 添加 `US 美国` 或 `ABC`。
 
+## 查看 Mac 硬盘写入量
+1. 下载工具并安装：https://sourceforge.net/projects/smartmontools/
+2. 打开终端，输入下面代码按回车键
+```
+/usr/local/sbin/smartctl -a /dev/disk0
+```
+来源：https://www.bilibili.com/video/BV1W34y1q7yq
+
 
