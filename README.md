@@ -170,6 +170,6 @@ sudo /usr/libexec/PlistBuddy -c "Add 'redesigned_text_cursor:Enabled' bool false
 ```
 /usr/local/sbin/smartctl -a /dev/disk0
 ```
-来源：https://www.bilibili.com/video/BV1W34y1q7yq
+硬盘写入量参考视频：https://www.bilibili.com/video/BV1W34y1q7yq
 
 
