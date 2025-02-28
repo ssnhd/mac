@@ -53,6 +53,7 @@
 52. 显示手机等设备电量 AirBattery：https://github.com/lihaoyun6/AirBattery
 53. 剪切 Command X：https://apps.apple.com/us/app/command-x/id6448461551
 54. 沉浸式翻译 Safari 扩展：https://apps.apple.com/cn/app/沉浸式翻译safari扩展/id6447957425
+55. 文本识别 TextSniper 支持多国语言：https://textsniper.app
 
 ## 启动台行列
 【终端】输入或粘贴以下命令，修改后面的数字更改行列数。
