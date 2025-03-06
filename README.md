@@ -172,4 +172,8 @@ sudo /usr/libexec/PlistBuddy -c "Add 'redesigned_text_cursor:Enabled' bool false
 /usr/local/sbin/smartctl -a /dev/disk0
 ```
 
+## 退出所有程序快捷指令
+
+https://www.icloud.com/shortcuts/9075b6e71a4e4045a372c5557349fb8c
+
 
