@@ -202,7 +202,7 @@ sudo /usr/libexec/PlistBuddy -c "Add 'redesigned_text_cursor:Enabled' bool false
 https://www.icloud.com/shortcuts/9075b6e71a4e4045a372c5557349fb8c
 
 ---
-## 测试无线局域网
+## 测试网速
 在终端中输入 `networkQuality`
 
 官网介绍：https://support.apple.com/zh-cn/101942
