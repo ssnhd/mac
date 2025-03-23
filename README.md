@@ -208,4 +208,9 @@ https://www.icloud.com/shortcuts/9075b6e71a4e4045a372c5557349fb8c
 
 官网介绍：https://support.apple.com/zh-cn/101942
 
+---
+
+## Chrome 浏览器开启 HDR
+打开浏览器输入 [chrome://flags/#force-color-profile](chrome://flags/#force-color-profile) 选择 HDR10
+
 
