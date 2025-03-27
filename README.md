@@ -179,7 +179,7 @@ sudo /usr/libexec/PlistBuddy -c "Add 'redesigned_text_cursor:Enabled' bool false
 2. 前往文件夹（快捷键：Command-Shift-G）输入下面路径并用 [Xcode](https://apps.apple.com/cn/app/xcode/id497799835?mt=12) 软件打开 
 （路径里 `XXX` 替换为 Mac 用户名）。
 ```
-/Users/XXX/Library/Preferences/com.apple.HIToolbox.plist
+～/Library/Preferences/com.apple.HIToolbox.plist
 ```
 
 3. 删除所有包含 `U.S.` 的文件并保存，重启 Mac。
