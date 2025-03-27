@@ -185,9 +185,17 @@ sudo /usr/libexec/PlistBuddy -c "Add 'redesigned_text_cursor:Enabled' bool false
 3. 删除所有包含 `U.S.` 的文件并保存，重启 Mac。
 ![](https://i.imgur.com/q9xTLLL.png)
 
+4. 如果在最新的 macOS Sequoia 系统中，在重启之前上述的 plist 文件就已经被修改了，可以xcode 修改完立即锁定这个文件。
+```
+chflags uchg 文件名  # 锁定文件（不可修改、删除、重命名）
+chflags nouchg 文件名  # 解除锁定
+```
+> 注意：锁定后，除非手动解除，否则任何用户（包括 root）都无法修改文件。
+
 还原：系统偏好设置 → 键盘 → 输入法 → 添加 `US 美国` 或 `ABC`。
 
 ---
+
 
 ## 查看 Mac 硬盘写入量
 1. 下载工具并安装：https://sourceforge.net/projects/smartmontools/
