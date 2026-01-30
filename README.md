@@ -9,10 +9,8 @@
 - PasteNow 历史剪切板：https://apps.apple.com/cn/app/pastenow-剪贴板工具/id1552536109
 - One Switch 快捷开关：https://fireball.studio/oneswitch
 - Keka 压缩：https://www.keka.io/en
-blackmagic-disk-speed-test/id425264550
 - AS Timer 倒计时：https://apps.apple.com/cn/app/as-timer/id512464723
 - GitHub Desktop：https://desktop.github.com
-- MonitorControl 控制外接显示器亮度：https://github.com/MonitorControl/MonitorControl
 - Visual Studio Code 微软出品：https://code.visualstudio.com
 - PopClip 制作 PopMaker：https://brettterpstra.com/2014/05/12/popmaker-popclip-extension-generator
 - Hapigo 第三方聚焦搜索：https://www.hapigo.com
@@ -20,6 +18,14 @@ blackmagic-disk-speed-test/id425264550
 - Timer 桌面计时器：https://github.com/michaelvillar/timer-app/releases
 - AirBattery 显示手机等设备电量：https://github.com/lihaoyun6/AirBattery
 - Command X 剪切：https://apps.apple.com/us/app/command-x/id6448461551
+- 密码管理 Enpass：https://apps.apple.com/cn/app/enpass-password-manager/id732710998
+
+### 快捷启动应用
+- Thor：https://github.com/gbammc/Thor
+
+### 控制显示器亮度
+- MonitorControl：https://github.com/MonitorControl/MonitorControl
+- BetterDisplay：https://github.com/waydabber/BetterDisplay
 
 ### 处理图片
 - Upscayl 图片放大：https://github.com/upscayl/upscayl
@@ -31,9 +37,8 @@ blackmagic-disk-speed-test/id425264550
 
 ### 硬盘信息
 - Drivedx 硬盘信息：https://binaryfruit.com/drivedx
-- Blackmagic Disk Speed Test 硬盘读写：https://apps.apple.com/cn/app/
+- Blackmagic Disk Speed Test 硬盘读写：https://apps.apple.com/cn/app
 - iStat Menus 监控系统数据：https://bjango.com/mac/istatmenus
-
 
 ### 代理
 - Speedtest 测网速：https://apps.apple.com/cn/app/speedtest-by-ookla/id1153157709
@@ -58,9 +63,6 @@ blackmagic-disk-speed-test/id425264550
 - 翻译 Bob：https://apps.apple.com/cn/app/bob-翻译和-ocr-工具/id1630034110
 - 划词扩展 PopClip：https://apps.apple.com/cn/app/popclip/id445189367
 
-
-1. 快捷启动应用 Thor：https://github.com/gbammc/Thor
-2. 密码管理 Enpass：https://apps.apple.com/cn/app/enpass-password-manager/id732710998
 
 ### 截图
 - CleanShot X：https://cleanshot.com
