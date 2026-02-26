@@ -236,6 +236,13 @@ defaults write com.apple.dock springboard-columns -int 9
 killall Dock
 ```
 
+## 批量修改图片格式
+
+1. 打开自动操作 App，新建文稿选择“快速操作”
+2. 左侧“照片” → “更改图像类型”，将其拖入到右侧操作区中。
+3. 设置为 TIFF 格式，点击将其修改为其他类型，例如 JPEG。
+4. 点击菜单栏“文件”，保存，设置个名称即可。
+
 ## 网页显示方框里带问号
 安装新字体时字体冲突，导致浏览器网页中字体显示成方块里带问号，需要清一下字体缓存。
 ![](https://i.imgur.com/Lkk0Gja.png)
