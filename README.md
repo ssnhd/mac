@@ -79,6 +79,7 @@
 ### 影音
 - IINA 播放器：https://iina.io
 - IINA+ 直播助手：https://github.com/xjbeta/iina-plus
+- 斗鱼虎牙抖音直播：https://github.com/chen-zeong/DTV
 - Simple Live 斗鱼 B 站直播 ：https://github.com/xiaoyaocz/dart_simple_live
 - APTV 看央视直播：https://apps.apple.com/cn/app/aptv/id1630403500
 
