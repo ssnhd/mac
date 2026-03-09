@@ -19,9 +19,11 @@
 - AirBattery 显示手机等设备电量：https://github.com/lihaoyun6/AirBattery
 - Command X 剪切：https://apps.apple.com/us/app/command-x/id6448461551
 - 密码管理 Enpass：https://apps.apple.com/cn/app/enpass-password-manager/id732710998
-
-### 快捷启动应用
+- 文本识别 TextSniper 支持多国语言：https://textsniper.app
 - Thor：https://github.com/gbammc/Thor
+- 翻译 Bob：https://apps.apple.com/cn/app/bob-翻译和-ocr-工具/id1630034110
+- 划词扩展 PopClip：https://apps.apple.com/cn/app/popclip/id445189367
+
 
 ### 控制显示器亮度
 - MonitorControl：https://github.com/MonitorControl/MonitorControl
@@ -40,10 +42,10 @@
 - Blackmagic Disk Speed Test 硬盘读写：https://apps.apple.com/cn/app
 - iStat Menus 监控系统数据：https://bjango.com/mac/istatmenus
 
-### 代理
+### 网络工具
 - Speedtest 测网速：https://apps.apple.com/cn/app/speedtest-by-ookla/id1153157709
 - Mihomo Party 代理工具：https://mihomoparty.org
-
+- ClashBar 开源免费：https://github.com/Sitoi/clashbar
 
 ### 浏览器
 - Chrome：https://www.google.com/intl/zh-CN/chrome
@@ -51,18 +53,11 @@
 - Safari 去广告 Adguard：https://apps.apple.com/cn/app/adguard-for-safari/id1440147259
 - Safari Tampermonkey：https://apps.apple.com/cn/app/tampermonkey/id1482490089
 - 沉浸式翻译 Safari 扩展：https://apps.apple.com/cn/app/沉浸式翻译safari扩展/id6447957425
-- 文本识别 TextSniper 支持多国语言：https://textsniper.app
 
 ### 社交
 
-- 微信：https://weixin.qq.com
 - Telegram：https://telegram.org
 - 微博 Maipo：https://apps.apple.com/cn/app/maipo-for-微博/id789066512
-
-### 翻译
-- 翻译 Bob：https://apps.apple.com/cn/app/bob-翻译和-ocr-工具/id1630034110
-- 划词扩展 PopClip：https://apps.apple.com/cn/app/popclip/id445189367
-
 
 ### 截图
 - CleanShot X：https://cleanshot.com
@@ -79,7 +74,7 @@
 ### 影音
 - IINA 播放器：https://iina.io
 - IINA+ 直播助手：https://github.com/xjbeta/iina-plus
-- 斗鱼虎牙抖音直播：https://github.com/chen-zeong/DTV
+- DTV 斗鱼虎牙抖音直播：https://github.com/chen-zeong/DTV
 - Simple Live 斗鱼 B 站直播 ：https://github.com/xiaoyaocz/dart_simple_live
 - APTV 看央视直播：https://apps.apple.com/cn/app/aptv/id1630403500
 
