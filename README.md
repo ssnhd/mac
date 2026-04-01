@@ -23,11 +23,7 @@
 - Thor：https://github.com/gbammc/Thor
 - 翻译 Bob：https://apps.apple.com/cn/app/bob-翻译和-ocr-工具/id1630034110
 - 划词扩展 PopClip：https://apps.apple.com/cn/app/popclip/id445189367
-
-
-### 控制显示器亮度
-- MonitorControl：https://github.com/MonitorControl/MonitorControl
-- BetterDisplay：https://github.com/waydabber/BetterDisplay
+- BetterDisplay 调节外接显示器亮度：https://github.com/waydabber/BetterDisplay
 
 ### 处理图片
 - Upscayl 图片放大：https://github.com/upscayl/upscayl
