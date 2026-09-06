@@ -56,6 +56,7 @@
 - 微博 Maipo：https://apps.apple.com/cn/app/maipo-for-微博/id789066512
 
 ### 截图
+- Snapzy（CleanShot X 替代品，开源）：https://github.com/duongductrong/Snapzy
 - CleanShot X：https://cleanshot.com
 - Shottr：https://shottr.cc
 - Xnip：https://apps.apple.com/cn/app/xnip-截图-标注/id1221250572
