@@ -35,6 +35,7 @@
 ### 窗口管理
 - Rectangle 窗口管理：https://github.com/rxhanson/Rectangle/releases
 - Contexts 切换后台应用：https://contexts.co/
+- LayoutKeeper 外接屏窗口与多桌面布局自动恢复（开源免费）：https://github.com/tumingke0/LayoutKeeper
 
 ### 硬盘信息
 - Drivedx 硬盘信息：https://binaryfruit.com/drivedx
